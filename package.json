@@ -2,7 +2,7 @@
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sifatullah05.github.io/portfolio",
+  "homepage": "https://github.com/sifatullah05/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",

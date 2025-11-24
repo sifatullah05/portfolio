@@ -148,7 +148,7 @@ function App() {
       {/* Existing Projects Section */}
       <section id="projects" className="bg-gray-100 py-20 px-4 sm:px-6">
         <div className="max-w-5xl mx-auto">
-          <h2 className="text-3xl sm:text-4xl font-bold mb-10 text-center">Machine Learning Project</h2>
+          <h2 className="text-3xl sm:text-4xl font-bold mb-10 text-center">Machine Learning Projects</h2>
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
             {projects.map((project) => (
               <div key={project.name} className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition h-80 flex flex-col justify-between">
